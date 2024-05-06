@@ -12,6 +12,8 @@
         - maximize performance by minimizing the number of row buffer conflicts
     2. Oldest request first (FCFS)
         - Considering fairness and simplicity
+__SUMMARY__ : FR-FCFS memory controller is a simple and effective memory controller that can be used in many systems. It is easy to implement and provides good performance for a wide range of applications. However, it may not be the best choice for multi-threaded applications or applications with complex memory access patterns.
+
     
 ### 4.4.2 STFM Memory Controller
 
